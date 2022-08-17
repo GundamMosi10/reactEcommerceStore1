@@ -19,7 +19,7 @@
   
 ## Usage:
   Here is a link to a [demo](https://limitless-reef-31254.herokuapp.com/) 
-  ![Screenshot](./client/src/img/Screenshot1%20Craft.jpeg "screen shot #1 of the ")
+  ![Screenshot](./client/src/img/Screenshot1%20Craft.jpeg "screen shot #1 of the website")
   
 ## Installation:
   
